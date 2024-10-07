@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+// App.js
+import React from 'react';
+import Scorecard from './components/ScoreCard/ScoreCard';
+import matchData from './data/data.json';
+import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div style={{ fontSize:'20px',fontWeight:500}}>{matchData?.result}</div>
+      <Scorecard data={matchData} />
     </div>
   );
 }
