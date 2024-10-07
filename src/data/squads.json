@@ -1,0 +1,60 @@
+{
+    "squads":[
+        {
+            "Playing":[
+                {
+                "playerName":"Abhishek Sharma",
+                "playerImg":"",
+                "playerRole":"Bowling Allrounder"
+                },
+                {
+                    "playerName":"Abhishek Sharma",
+                    "playerImg":"",
+                    "playerRole":"Bowling Allrounder"
+                }
+            ],
+            "Bench":[
+                {
+                    "playerName":"Abhishek Sharma",
+                    "playerImg":"",
+                    "playerRole":"Bowling Allrounder"
+                }
+            ],
+            "supportStaff":[
+                {
+                    "playerName":"Abhishek Sharma",
+                    "playerImg":"",
+                    "playerRole":"Bowling Allrounder"
+                }
+            ]
+        },
+        {
+            "Playing":[
+                {
+                "playerName":"Abhishek Sharma",
+                "playerImg":"",
+                "playerRole":"Bowling Allrounder"
+                },
+                {
+                    "playerName":"Abhishek Sharma",
+                    "playerImg":"",
+                    "playerRole":"Bowling Allrounder"
+                }
+            ],
+            "Bench":[
+                {
+                    "playerName":"Abhishek Sharma",
+                    "playerImg":"",
+                    "playerRole":"Bowling Allrounder"
+                }
+            ],
+            "supportStaff":[
+                {
+                    "playerName":"Abhishek Sharma",
+                    "playerImg":"",
+                    "playerRole":"Bowling Allrounder"
+                }
+            ]
+        }
+    ]
+}
